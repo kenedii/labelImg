@@ -1,5 +1,9 @@
 Easy setup for the LabelImg labelling software
 
+How to launch LabelImg software (Requires Python and Pip):
+Windows:
+ - Double click launch_labelImg.bat or type `launch_labelImg.bat` in CMD.
+
 About LabelImg
 ========
 
