@@ -5,6 +5,11 @@ How to launch LabelImg software (Requires Python and Pip):
 Windows:
  Double click ```launch_labelImg.bat``` or type ```launch_labelImg.bat``` in CMD.
 
+Other:
+ pip install -r requirements\\requirements.txt
+
+ python labelimg.py
+
 About LabelImg
 ========
 
